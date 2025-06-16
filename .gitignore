@@ -1,0 +1,21 @@
+# Node.js
+node_modules/
+.env
+npm-debug.log
+
+# VSCode
+.vscode/
+
+# MacOS
+.DS_Store
+
+# React build files
+client/build/
+
+# Logs
+logs
+*.log
+
+# Optional
+coverage/
+dist/
